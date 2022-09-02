@@ -1,1 +1,1 @@
-1)script that prints the absolute path name of the current working directory. 2 script that changes working directories to users home directories 
+0)script that prints the absolute path name of the current working directory.1)Display the content list of your current directory. 2) script that changes working directories to users home directories. 3)Display cureent directories content in long format. 4)Display current directory content including hidden file starting with a dot .use the long format.
